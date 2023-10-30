@@ -15,7 +15,7 @@ set_target_properties(glfw PROPERTIES
     INTERFACE_INCLUDE_DIRECTORIES "${PROJECT_SOURCE_DIR}/lib/glfw/include"
 )
 
-include_directories(${PROJECT_SOURCE_DIR}/lib/glm/glm)
+include_directories(${PROJECT_SOURCE_DIR}/lib/glm/)
 include_directories(${PROJECT_SOURCE_DIR}/lib/glfw/include)
 SET(GLM_TEST_ENABLE OFF CACHE BOOL "GLM Build unit tests")
 

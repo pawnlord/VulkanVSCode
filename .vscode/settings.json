@@ -1,0 +1,9 @@
+{
+    "cmake.cpptools.intelliSenseMode": "msvc-x64",
+    "cmake.default.generator": "Visual Studio 16 2019",
+    "files.associations": {
+        "*.excalidraw": "json",
+        "*.excalidrawlib": "json",
+        "iostream": "cpp"
+    }
+}
